@@ -1,9 +1,21 @@
 ---
 title: "Lab 7: Functions + Fish"
-author: "Your name here!"
-format: html
+author: "Daniel Bush!"
+format: 
+  html: 
+    embed-resources: true
+    code-tools: true
+    toc: true
+    toc-depth: 2
+    code-fold: true
+    theme: sandstone
 editor: source
-embed-resources: true
+message: false
+warning: false
+execute: 
+  echo: true
+  output: true
+  error: false
 ---
 
 The goal of this lab is learn more about exploring missing data and writing
